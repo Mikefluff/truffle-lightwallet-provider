@@ -12,7 +12,7 @@
   "author": "Chris Hitchcott <hitchcott@gmail.com> (http://hitchcott.com)",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "eth-lightwallet": "^2.5.3",
+    "eth-lightwallet": "^2.5.4",
     "web3-provider-engine": "^8.4.0"
   },
   "devDependencies": {
